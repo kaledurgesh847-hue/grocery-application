@@ -1,0 +1,6 @@
+{
+  "name": "FreshMart Grocery & Store Ledger",
+  "description": "Browse grocery inventory, place delivery orders, track order history, and manage store customer balance payments and credit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
